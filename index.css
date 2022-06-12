@@ -1,0 +1,140 @@
+.child1{
+    display: flex;
+    justify-content: flex-end;
+    
+    }
+    #pd{
+        padding: 20px;
+    }
+    .parent{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .child{
+        display: flex;
+        justify-content: flex-start;
+    
+    }
+    p{
+        padding: 20px;
+    }
+    #para{
+        width: 20px;
+        height: 20px;
+        background-color: antiquewhite;
+        border: 1px solid darkgrey;
+        border-radius: 50%;
+    }
+    .brd{
+        width: 20px;
+        height: 20px;
+        background-color: antiquewhite;
+        border-radius: 50%;
+        border: 1px solid darkgray;
+    }
+    .btn{
+        width: 100px;
+        background-color: aqua;
+        border-radius: 20px;
+    }
+    .container{
+        display: flex;
+        justify-content: space-evenly;
+    
+    }
+    .box{
+        width: 130px;
+        height: 25px;
+       
+        background-color: azure;
+        border: 1px solid darkgrey;
+    }
+    #p{
+    padding: 0px 0px 0px 20px;
+    }
+    .boxm{
+        width: 98%;
+        height: 140px;
+        border: 1px solid darkgray;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .boxm a{
+        text-decoration: none;
+        color: black;
+        margin-top: 90px;
+    
+    }
+    a:hover{
+        color: aqua;
+    }
+    #bg{
+       color: blue;
+    }
+    #sp{
+        position: absolute;
+        top:200px;
+        right: 200px;
+        padding: 20px;
+     
+    }
+    #sps{
+        position: absolute;
+        top:220px;
+        right: 100px;
+      }
+      .prd{
+        width: 98%;
+        height: 100px;
+    border: 1px solid darkgray;
+   
+        display: flex;
+        justify-content: space-evenly;
+      }
+      .prd a{
+        margin-top: 60px;
+        text-decoration: none;
+      }
+      #btm{
+
+     border-bottom: 2px solid black;
+      }
+      #btm:active{
+        background-color: black;
+      }
+      .candidate{
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-around;
+      }
+      .candidate a{
+        text-decoration: none;
+        color: darkgray;
+      }
+      table {
+       width: 100%;
+      }
+      td{
+        padding-left: 90px;
+      }
+      img{
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+      }
+      .html{
+        background-color: green;
+        text-align: center;
+        width: 100%;
+      }
+      .css{
+        background-color: pink;
+        text-align: center;
+        width: 80%;
+      }
+      .javascript{
+        background-color:blue;
+        text-align: center;
+        width: 70%;
+      }
+      
